@@ -59,7 +59,7 @@
 
 ## Misc
 
-[![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false")](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
+[![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false")](https://open.spotify.com/user/31oaobg53bdyb7s7ombvibzvhyl4?si=ZLOs5jSmQleKm15uz1mPGw&utm_source=copy-link)
 </br>
 
 ## Go With The Flow
