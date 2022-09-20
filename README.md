@@ -42,7 +42,7 @@
 
 - Database
 
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%2307405e.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
   <img alt="STRAPI" src ="https://img.shields.io/badge/STRAPI-000000?style=for-the-badge&logo=strapi&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
