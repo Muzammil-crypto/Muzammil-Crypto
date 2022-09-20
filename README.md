@@ -64,6 +64,6 @@
 
 ## Go With The Flow
 
-<a href="https://github.com/Dev-Adnani">
-  <img align="middle" src = "https://raw.githubusercontent.com/muzammil-crypto/muzammil-crypto/main/bottom-footer.svg">
+<a href="https://github.com/muzammil-crypto">
+  <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
 </a>
