@@ -36,13 +36,12 @@
 
   ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-  ![image](https://img.shields.io/badge/Typescript-%2307405e?style=for-the-badge&logo=typescript&logoColor=white)
   ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 - Database
 
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="postGres" src ="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+  <img alt="STRAPI" src ="https://img.shields.io/badge/STRAPI-000000?style=for-the-badge&logo=strapi&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 - CI (Continous integration) / CD (Continuous delivery)
