@@ -55,16 +55,18 @@
 - For doing projects related to **Building Apps**.
 - Building **APIs for Apps**.
 
-## Misc
+<!-- ## Misc
 
 [![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false")](https://open.spotify.com/user/31oaobg53bdyb7s7ombvibzvhyl4?si=ZLOs5jSmQleKm15uz1mPGw&utm_source=copy-link)
-</br>
+</br> -->
 
 ## See the Status Here
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muzammil-crypto&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-crypto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muzammil-crypto&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-crypto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Go With The Flow
 
