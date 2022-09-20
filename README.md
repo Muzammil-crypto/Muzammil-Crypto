@@ -25,6 +25,7 @@
   ![image](https://img.shields.io/badge/Flutter-4285F4?style=for-the-badge&logo=Flutter&logoColor=white)
   ![image](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=dart&logoColor=white)
   ![image](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
+
   ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![image](https://img.shields.io/badge/Java-%23FF9900?style=for-the-badge&logo=java&logoColor=white)
 
