@@ -27,7 +27,7 @@
   ![image](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
 
   ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![image](https://img.shields.io/badge/Java-%23FF9900?style=for-the-badge&logo=java&logoColor=white)
+  ![image](https://img.shields.io/badge/Java-%23FF9900?style=for-the-badge&logo=spring&logoColor=white)
 
 - Cloud and Hosting services
 
