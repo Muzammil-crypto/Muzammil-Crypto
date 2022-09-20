@@ -30,7 +30,7 @@
 - Cloud and Hosting services
 
   ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  <img alt="HEROKU" src="https://img.shields.io/badge/HEROKU%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="HEROKU" src="https://img.shields.io/badge/HEROKU%20-%23FF9900.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
 - Backend Frameworks
 
