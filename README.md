@@ -50,17 +50,19 @@
 
 ## 🌱 I’m currently learning
 
-- MERN STACK DEVELOPMENT
+- MERN-STACK
 
 ## 👯 I’m open to collaborate on
 
-- Building **APIs for Apps**.
 - For doing projects related to **Building Apps**.
+- Building **APIs for Apps**.
 
 ## Misc
 
 [![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false")](https://open.spotify.com/user/31oaobg53bdyb7s7ombvibzvhyl4?si=ZLOs5jSmQleKm15uz1mPGw&utm_source=copy-link)
 </br>
+
+https://github-readme-streak-stats.herokuapp.com/?muzammil-crypto
 
 ## Go With The Flow
 
