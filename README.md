@@ -34,11 +34,11 @@
   ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   <img alt="HEROKU" src="https://img.shields.io/badge/HEROKU%20-%23FF9900.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
-- Backend Frameworks
+<!-- - Backend Frameworks
 
   ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-  ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) -->
 
 - Database
 
