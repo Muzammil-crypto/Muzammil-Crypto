@@ -62,7 +62,7 @@
 [![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false")](https://open.spotify.com/user/31oaobg53bdyb7s7ombvibzvhyl4?si=ZLOs5jSmQleKm15uz1mPGw&utm_source=copy-link)
 </br>
 
-https://github-readme-streak-stats.herokuapp.com/?muzammil-crypto
+https://github-readme-streak-stats.herokuapp.com/?user=muzammil-crypto
 
 ## Go With The Flow
 
