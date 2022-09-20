@@ -6,13 +6,13 @@
 
 <table>
   <tr>
-    <a href="https://in.linkedin.com/in/dev-adnani">
+    <a href="https://www.linkedin.com/in/muzammil-rafique-9153aa174/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a href="mailto:dev.adnani26@gmail.com">
+   <a href="mailto:muzamilrafiq000@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.codechef.com/users/devadnani/">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-CodeChef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black" />        
+    <!-- <a href="https://www.codechef.com/users/devadnani/">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-CodeChef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black" />         -->
   </a>&nbsp;&nbsp;
 </table>
 
