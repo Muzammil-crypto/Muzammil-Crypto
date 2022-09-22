@@ -2,7 +2,7 @@
 
 ##
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-crypto" alt="arose-niazi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-crypto" alt="muzammil-crypto" /></a> </p>
 
 ##
 
@@ -80,7 +80,7 @@
   <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
 </a>
 
-<h1 align="center">Hi, I'm Arose Nazi</h1>
+<!-- <h1 align="center">Hi, I'm Arose Nazi</h1>
 <h3 align="center">I'm a Student, Developer and Community owner!!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arose-niazi" alt="arose-niazi" /></a> </p>
@@ -126,12 +126,13 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
+
 1. 💪 Opened PR [#2](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT/pull/2) in [MuhammadNouman-22/FA18-BSE-078-S2-WT](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT)
 2. ❌ Reopened PR [#1](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT/pull/1) in [MuhammadNouman-22/FA18-BSE-078-S2-WT](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT)
 3. ❌ Closed PR [#1](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT/pull/1) in [MuhammadNouman-22/FA18-BSE-078-S2-WT](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT)
 4. 💪 Opened PR [#1](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT/pull/1) in [MuhammadNouman-22/FA18-BSE-078-S2-WT](https://github.com/MuhammadNouman-22/FA18-BSE-078-S2-WT)
 5. 🎉 Merged PR [#1](https://github.com/Arose-Niazi/Sky-Shooter/pull/1) in [Arose-Niazi/Sky-Shooter](https://github.com/Arose-Niazi/Sky-Shooter)
-<!--END_SECTION:activity-->
-</details>
+   <!--END_SECTION:activity-->
+   </details> -->
