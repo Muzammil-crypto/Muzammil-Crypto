@@ -40,6 +40,12 @@
   ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) -->
 
+- Design
+
+  <img alt="Figma" src ="https://img.shields.io/badge/Figma%2307405e.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+
+  
+
 - Database
 
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%2307405e.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
