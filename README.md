@@ -40,11 +40,10 @@
   ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) -->
 
-- Design
+- UI/UX Design
 
-  <img alt="Figma" src ="https://img.shields.io/badge/figma.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="STRAPI" src ="https://img.shields.io/badge/figma-4285F4?style=for-the-badge&logo=figma&logoColor=white"/>
 
-  
 
 - Database
 
