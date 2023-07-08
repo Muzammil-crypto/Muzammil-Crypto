@@ -42,7 +42,7 @@
 
 - Design
 
-  <img alt="Figma" src ="https://img.shields.io/badge/Figma%2307405e.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Figma" src ="https://img.shields.io/badge/figma.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
   
 
