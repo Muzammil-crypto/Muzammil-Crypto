@@ -23,12 +23,12 @@
   <!-- ![image](https://img.shields.io/badge/C%2B%2B-232671E5?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
   ![image](https://img.shields.io/badge/Flutter-4285F4?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![image](https://img.shields.io/badge/Dart-29B0EE?style=for-the-badge&logo=dart&logoColor=white)
   ![image](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
   ![image](https://img.shields.io/badge/React_Native-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
-
-  ![image](https://img.shields.io/badge/JavaScript-DD9C24?style=for-the-badge&logo=javascript&logoColor=black)
-  ![image](https://img.shields.io/badge/Java-%23FF9900?style=for-the-badge&logo=Oak&logoColor=white)
+  
+  ![image](https://img.shields.io/badge/Dart-29B0EE?style=for-the-badge&logo=dart&logoColor=white)
+  ![image](https://img.shields.io/badge/JavaScript-F3D91A?style=for-the-badge&logo=javascript&logoColor=black)
+  ![image](https://img.shields.io/badge/Java-DA3A3A?style=for-the-badge&logo=Oak&logoColor=white)
 
 - Cloud and Hosting services
 
@@ -52,9 +52,12 @@
   <img alt="STRAPI" src ="https://img.shields.io/badge/STRAPI-000000?style=for-the-badge&logo=strapi&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-- CI (Continous integration) / CD (Continuous delivery)
+- Version Control and Collaboration Platforms
 
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-000000.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/gitlab%20-EF6724.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  
 - Web CMS
   
   <img alt="WORDPRESS" src ="https://img.shields.io/badge/wordpress-4285F4?style=for-the-badge&logo=wordpress&logoColor=white"/>
