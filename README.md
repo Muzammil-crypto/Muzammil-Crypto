@@ -23,10 +23,11 @@
   <!-- ![image](https://img.shields.io/badge/C%2B%2B-232671E5?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
   ![image](https://img.shields.io/badge/Flutter-4285F4?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![image](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=dart&logoColor=white)
+  ![image](https://img.shields.io/badge/Dart-29B0EE?style=for-the-badge&logo=dart&logoColor=white)
   ![image](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
+  ![image](https://img.shields.io/badge/React_Native-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
 
-  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![image](https://img.shields.io/badge/JavaScript-DD9C24?style=for-the-badge&logo=javascript&logoColor=black)
   ![image](https://img.shields.io/badge/Java-%23FF9900?style=for-the-badge&logo=Oak&logoColor=white)
 
 - Cloud and Hosting services
@@ -42,7 +43,7 @@
 
 - UI/UX Design
 
-  <img alt="STRAPI" src ="https://img.shields.io/badge/figma-4285F4?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Figma" src ="https://img.shields.io/badge/figma-EA4C1D?style=for-the-badge&logo=figma&logoColor=white"/>
 
 
 - Database
@@ -53,7 +54,14 @@
 
 - CI (Continous integration) / CD (Continuous delivery)
 
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-000000.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+- Web CMS
+  
+  <img alt="WORDPRESS" src ="https://img.shields.io/badge/wordpress-4285F4?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img alt="SHOIFY" src ="https://img.shields.io/badge/shopify-4EA94B?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <img alt="WIX" src ="https://img.shields.io/badge/wix-000000?style=for-the-badge&logo=wix&logoColor=white"/>
+  
+
 
 ## 👯 I’m open to collaborate on
 
