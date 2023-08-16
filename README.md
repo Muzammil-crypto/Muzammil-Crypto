@@ -50,7 +50,6 @@
 
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-0396DE.svg?&style=for-the-badge&logo=firebase&logoColor=yellow"/>
   <img alt="STRAPI" src ="https://img.shields.io/badge/STRAPI-000000?style=for-the-badge&logo=strapi&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 - Version Control and Collaboration Platforms
 
