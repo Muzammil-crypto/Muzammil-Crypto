@@ -11,8 +11,8 @@
   </a>&nbsp;&nbsp;
    <a href="mailto:muzamilrafiq000@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <!-- <a href="https://www.codechef.com/users/devadnani/">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-CodeChef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black" />         -->
+    <a href="https://portfolio-git-main-muzammil-crypto.vercel.app/">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Portfolio-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black" />        
   </a>&nbsp;&nbsp;
 </table>
 
