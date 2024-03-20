@@ -45,7 +45,7 @@
 
 - 📄 Know about my experiences [my experiences](https://portfolio-git-main-muzammil-crypto.vercel.app/)
 
-- ⚡ Fun fact **I think I'm a good singer**
+- ⚡ Fun fact **I think I sing songs**
 
 <br>
 <h3 align="left">Connect with me:</h3>
