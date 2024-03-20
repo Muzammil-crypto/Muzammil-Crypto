@@ -120,8 +120,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-crypto&layout=compact)](https://github.com/muzammil-crypto/github-readme-stats)
-<!-- ![Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzammil-crypto\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) -->
+ 
+![Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzammil-crypto\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajk3770&layout=compact)](https://github.com/rajk3770/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=muzammil-crypto&theme=midnight-purple)](https://git.io/streak-stats)
 
