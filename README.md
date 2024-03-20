@@ -123,7 +123,7 @@
  
 ![Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzammil-crypto\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajk3770&layout=compact)](https://github.com/rajk3770/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-crypto&layout=compacttheme=midnight-purple)](https://github.com/muzammil-crypto/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=muzammil-crypto&theme=midnight-purple)](https://git.io/streak-stats)
 
