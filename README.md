@@ -93,7 +93,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,idea,vscode,postman,android_studio" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,idea,vscode,postman,gmail" />
   </a>
 </p>
 
