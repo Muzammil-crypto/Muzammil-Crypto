@@ -65,7 +65,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=strapi,firebase,pyhton" />
+    <img src="https://skillicons.dev/icons?i=strapi,firebase,django" />
   </a>
 </p>
 
@@ -142,7 +142,7 @@
 [![An image of @muzammil-crypto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muzammil-crypto)](https://holopin.io/@muzammil-crypto)
 <br><br><br> -->
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
