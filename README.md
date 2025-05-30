@@ -38,13 +38,13 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [Muzammil's workspace](https://portfolio-git-main-muzammil-crypto.vercel.app/)
+- 👨‍💻 All of my projects are available at [Muzammil's workspace](http://itsmuzamil.vercel.app/)
 
 - 💬 Ask me about **JavaScript, Java, Dart and Python**
 
 - 📫 How to reach me **muzamilrafiq000@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://portfolio-git-main-muzammil-crypto.vercel.app/)
+- 📄 Know about my experiences [my experiences](http://itsmuzamil.vercel.app/)
 
 - ⚡ Fun fact **I love singing songs**
 
