@@ -65,18 +65,18 @@ Credits:
 
 ## 📊 GitHub Stats & Activity
 
-<p align="left">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-crypto&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12" height="180em" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-crypto&theme=radical&hide_border=true&border_radius=12" height="180em" />
-</p>
+<div align="left" style="display: flex; gap: 10px;">
 
-<p align="left">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-crypto&layout=compact&theme=radical&hide_border=true&border_radius=12" height="180em" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-crypto&layout=compact&theme=radical&hide_border=true&border_radius=12" style="height: 125px; object-fit: cover;" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-crypto&theme=radical&hide_border=true&border_radius=12" style="width: 32%; height: 125px; object-fit: cover;" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-crypto&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12" style="width: 32%; height: 125px; object-fit: cover;" />
+
+</div>
 
 ---
 
