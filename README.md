@@ -34,12 +34,11 @@ Credits:
 ---
 
 ## 🚀 About Me
-- **Full-Stack Developer** with 5+ years of experience building end-to-end solutions across mobile, web, and cloud platforms.
-- Specialized in **cross-platform mobile development** with Flutter & React Native, Proficient in **web development** with React.js, Next.js, and Node.js backends.
-- **AWS Certified Solutions Architect** with hands-on experience in cloud infrastructure, serverless architectures, and scalable system design.
-- Built **10+ production applications** serving 100K+ users, from emergency response systems to e-commerce platforms and real-time communication apps.
-- Expert in **full development lifecycle** - from UI/UX design and frontend development to backend APIs, database architecture, and cloud deployment.
-- Currently architecting scalable solutions at **Helpicon** while maintaining expertise in both mobile-first and web-first development approaches.
+- **Full-Stack Developer** with 5+ years building end-to-end mobile, web, and cloud solutions.
+- Specialized in **Flutter & React Native** for mobile, proficient in **React.js, Next.js & Node.js** for web.
+- **AWS Certified Solutions Architect** with expertise in cloud infrastructure and serverless architectures.
+- Built **10+ production apps** serving 100K+ users - from emergency systems to e-commerce platforms.
+- Currently architecting scalable solutions at **Helpicon** with full-stack expertise across mobile and web.
 
 ---
 
@@ -64,70 +63,109 @@ Credits:
 - **[Pashma Khan](https://pashmakhan.com/)** - E-commerce platform with modern UI/UX
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=muzammil-crypto&count_private=true&show_icons=true&theme=tokyonight"
-           alt="Muzammal's GitHub stats" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-crypto&layout=compact&theme=tokyonight"
-           alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-crypto&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12" height="180em" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-crypto&theme=radical&hide_border=true&border_radius=12" height="180em" />
+</p>
 
----
-
-## **Languages & Technologies**
-
-### **Mobile Development**
-
-* **Flutter** (Dart, GetX, BLoC, GetIt)
-* **React Native** (Redux Toolkit, Context API, Expo)
-* **Cross-Platform**: iOS & Android native modules
-
-### **Web Development**
-
-* **Frontend**: React.js | Next.js | Redux | TypeScript | JavaScript
-* **Backend**: Node.js | Express.js | RESTful APIs | GraphQL
-* **Styling**: Tailwind CSS | Material UI | Styled Components
-
-### **Cloud & DevOps**
-
-* **AWS**: EC2 | Lambda | S3 | RDS | API Gateway
-* **CI/CD**: GitHub Actions | Build Flavors | Automated Deployments
-* **Tools**: Docker | Postman | Git | Bitbucket
-
-### **Integrations & APIs**
-
-* **Payment**: Stripe | SwissPay | In-App Purchases
-* **Communication**: Twilio | Push Notifications
-* **Maps & Location**: Google Maps | Mapbox | Geofencing
-* **Authentication**: Firebase Auth | JWT | OAuth
-
-### **Other Tools & Platforms**
-
-* **Version Control**: Git | GitHub | GitLab | Bitbucket
-* **IDEs**: VS Code | Android Studio | Xcode
-* **Testing**: Jest | Performance Optimization | Debugging Tools
-* **Design**: Figma | Responsive UI Design
+<p align="left">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-crypto&layout=compact&theme=radical&hide_border=true&border_radius=12" height="180em" />
+</p>
 
 ---
 
-## 🌐 Connect & Upwork
-- **[Professional Upwork Profile](https://www.upwork.com/freelancers/~0130e80325866dce81?mp_source=share)** - Available for freelance projects
-- **LinkedIn:** https://www.linkedin.com/in/muzammil-rafique
-- **Portfolio:** http://itsmuzamil.vercel.app
-- **Email:** Muzamilrafiq000@gmail.com
-- **Location:** Riyadh, Saudi Arabia
-- **Phone:** +966-509-652856
+## 🚀 Languages & Technologies
+
+<p align="left">
+  <!-- Mobile -->
+  <details>
+    <summary><b>📱 Mobile Development</b></summary>
+    <br>
+    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
+  </details>
+
+  <!-- Web -->
+  <details>
+    <summary><b>🌐 Web Development</b></summary>
+    <br>
+    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  </details>
+
+  <!-- Cloud -->
+  <details>
+    <summary><b>☁️ Cloud & DevOps</b></summary>
+    <br>
+    <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
+  </details>
+
+  <!-- Integrations -->
+  <details>
+    <summary><b>🔗 Integrations & APIs</b></summary>
+    <br>
+    <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white&style=for-the-badge" />
+  </details>
+
+  <!-- Tools -->
+  <details>
+    <summary><b>🛠 Other Tools</b></summary>
+    <br>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  </details>
+</p>
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-crypto" alt="muzammil-crypto" /></a> </p>
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.upwork.com/freelancers/~0130e80325866dce81?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muzammil-rafique" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="http://itsmuzamil.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:Muzamilrafiq000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/📍 Riyadh, Saudi Arabia-555555?style=for-the-badge" alt="Location"/>
+  </a>
+  <a href="tel:+966509652856">
+    <img src="https://img.shields.io/badge/📱 +966509652856-555555?style=for-the-badge" alt="Phone"/>
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=muzammil-crypto&margin-w=15&margin-h=15" alt="muzammil-crypto trophies"/>
+  </a>
+</p>
 
 ---
 
