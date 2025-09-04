@@ -8,7 +8,7 @@ Credits:
 <h3 align="center">Full Stack Mobile & Web App Developer (iOS & Android) | Flutter | React Native | AWS Certified</h3>
 
 <!-- ========================== CERTIFICATIONS (TOP) ========================== -->
-<p align="center">
+<p align="left">
   <a href="https://www.credly.com/badges/678e4ee1-6ae2-4a0d-a08e-464085e918b0/public_url" target="_blank">
     <img alt="AWS Solutions Architect – Associate"
          src="https://img.shields.io/badge/AWS%20Solutions%20Architect%E2%80%94Associate-Verified%20(2025)-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -18,8 +18,6 @@ Credits:
     <img alt="Ultimate AWS Certified Solutions Architect 2025"
          src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner%E2%80%94Foundational-Verified%20(2025)-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
-</p>
-<p align="center">
   <a href="https://www.coursera.org/account/accomplishments/certificate/7L6R2C4628B5" target="_blank">
     <img alt="META Introduction to Backend Development"
          src="https://img.shields.io/badge/META%20Introduction%20to%20Backend%20Development-Verified%20(2024)-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
