@@ -35,7 +35,7 @@ Credits:
 
 ## 🚀 About Me
 - **Full-Stack Developer** with 5+ years of experience building end-to-end solutions across mobile, web, and cloud platforms.
-- Specialized in **cross-platform mobile development** with Flutter & React Native, but equally proficient in **web development** with React.js, Next.js, and Node.js backends.
+- Specialized in **cross-platform mobile development** with Flutter & React Native, Proficient in **web development** with React.js, Next.js, and Node.js backends.
 - **AWS Certified Solutions Architect** with hands-on experience in cloud infrastructure, serverless architectures, and scalable system design.
 - Built **10+ production applications** serving 100K+ users, from emergency response systems to e-commerce platforms and real-time communication apps.
 - Expert in **full development lifecycle** - from UI/UX design and frontend development to backend APIs, database architecture, and cloud deployment.
@@ -62,22 +62,6 @@ Credits:
 - **[Fawkes Games](https://fawkesgames.com/)** - Gaming platform with React, Context API, Stripe integration
 - **[TechAccess Pakistan](https://www.techaccesspak.com/)** - Technology services platform
 - **[Pashma Khan](https://pashmakhan.com/)** - E-commerce platform with modern UI/UX
----
-
-## 💼 Professional Experience
-
-### Senior Mobile App Developer - **Helpicon** (Remote, Sweden)
-*Apr 2024 – Present*
-- Developed Helpicon App from scratch with **Twilio, Stripe, Swiss Pay** integrations for 10K+ users
-- Reduced deployment time by 50% through **CI/CD pipeline** implementation
-- Built **geofencing, push notifications, and speech-to-text** features
-
-### Senior Mobile App Developer - **GreenOrigin** (Lahore, Pakistan)
-*Jun 2021 – Nov 2024*
-- Led development of **5+ emergency response apps** including DHA & Rescue 1122
-- Built real-time apps with **100K+ downloads**, reducing emergency response time by 30%
-- Integrated **WebSockets, Google Maps, Mapbox** for live tracking and communication
-
 ---
 
 ## 📊 GitHub Stats
@@ -116,12 +100,6 @@ Credits:
 * **AWS**: EC2 | Lambda | S3 | RDS | API Gateway
 * **CI/CD**: GitHub Actions | Build Flavors | Automated Deployments
 * **Tools**: Docker | Postman | Git | Bitbucket
-
-### **Database & Real-time**
-
-* **NoSQL**: MongoDB | Firebase Firestore | DynamoDB
-* **Real-time**: WebSockets | Firebase Real-time Database
-* **Caching**: Redis | Local Storage Optimization
 
 ### **Integrations & APIs**
 
