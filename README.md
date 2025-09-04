@@ -1,144 +1,166 @@
-<!-- ![logo](supun-new.png) -->
+<!--
+Credits:
+- Skill icons: https://github.com/tandpfun/skill-icons
+- GitHub Stats: https://github.com/anuraghazra/github-readme-stats
+-->
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<h1 align="center">Hi, I'm Muzammal Rafique 👋</h1>
+<h3 align="center">Full Stack Mobile & Web App Developer (iOS & Android) | Flutter | React Native | AWS Certified</h3>
 
-<h1 align="center">Hi 👋, I'm Muzammil Rafique</h1>
-<h3 align="center">A passionate Programmer from Pakistan</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
-<p align="center"> 
- <!-- <img src="https://komarev.com/ghpvc/?username=arose-niazi&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil rafique" />  -->
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="muz nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/muzammil-crypto"> -->
-</p>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
- <!-- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> -->
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
-
-- 🔭 I’m currently working on **HoboeTech Pvt Ltd**
-
-- 🌱 I’m currently learning **Django**
-
-- 👨‍💻 All of my projects are available at [Muzammil's workspace](http://itsmuzamil.vercel.app/)
-
-- 💬 Ask me about **JavaScript, Java, Dart and Python**
-
-- 📫 How to reach me **muzamilrafiq000@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://itsmuzamil.vercel.app/)
-
-- ⚡ Fun fact **I love singing songs**
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muzammil-rafique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzamil" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/9565088/muz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muz" height="30" width="40" /></a> -->
-<a href="https://web.facebook.com/muzamil.rafiq.733/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muzamil.raf" height="30" width="40" /></a>
-<a href="https://www.instagram.com/deltarebel_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muz___lk" height="30" width="40" /></a>
-<a href="mailto: muzamilrafiq000@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="muz" height="30" width="40" /></a>
-</p>
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,django,nodejs" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,flutter,dart" />
-  </a>
-</p>
-
-<!-- - Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p> -->
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,idea,vscode,androidstudio,postman,wordpress" />
-  </a>
-</p>
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Trophy:</h3>
-
+<!-- ========================== CERTIFICATIONS (TOP) ========================== -->
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  <a href="https://www.credly.com/badges/678e4ee1-6ae2-4a0d-a08e-464085e918b0/public_url" target="_blank">
+    <img alt="AWS Solutions Architect – Associate"
+         src="https://img.shields.io/badge/AWS%20Solutions%20Architect%E2%80%94Associate-Verified%20(2025)-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.udemy.com/certificate/UC-83f3f0fe-e193-4dd2-af6c-35dfab2d44a4/" target="_blank">
+    <img alt="Ultimate AWS Certified Solutions Architect 2025"
+         src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner%E2%80%94Foundational-Verified%20(2025)-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/7L6R2C4628B5" target="_blank">
+    <img alt="META Introduction to Backend Development"
+         src="https://img.shields.io/badge/META%20Introduction%20to%20Backend%20Development-Verified%20(2024)-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.coursera.org/account/accomplishments/certificate/P5JJ58ZP7ZWV" target="_blank">
+    <img alt="META Introduction to Frontend Development"
+         src="https://img.shields.io/badge/META%20Introduction%20to%20Frontend%20Development-Verified%20(2024)-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+- **Full-Stack Developer** with 5+ years of experience building end-to-end solutions across mobile, web, and cloud platforms.
+- Specialized in **cross-platform mobile development** with Flutter & React Native, but equally proficient in **web development** with React.js, Next.js, and Node.js backends.
+- **AWS Certified Solutions Architect** with hands-on experience in cloud infrastructure, serverless architectures, and scalable system design.
+- Built **10+ production applications** serving 100K+ users, from emergency response systems to e-commerce platforms and real-time communication apps.
+- Expert in **full development lifecycle** - from UI/UX design and frontend development to backend APIs, database architecture, and cloud deployment.
+- Currently architecting scalable solutions at **Helpicon** while maintaining expertise in both mobile-first and web-first development approaches.
+
+---
+
+## 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,nodejs,express,redux,tailwind,mongodb,firebase,aws,graphql,git,github&theme=light)](https://skillicons.dev)
+
+**Also:** Twilio, Stripe, SwissPay, WebSockets, Redux Toolkit, GetX, BLoC and CI/CD
+
+---
+
+## 📌 Featured Projects
+
+### 📱 **Mobile Applications**
+- **[Helpicon](https://helpicon.se/)** | **[iOS App](https://apps.apple.com/se/app/helpicon/id6450137041?l=en-GB)** - Task-matching platform with Twilio, Stripe, Swiss Pay integration (Cross Platform)
+- **[SuperHero eSIM](https://apps.apple.com/pk/app/superhero-esim-travel-data/id6504882410)** - Travel eSIM app for 200+ countries with Stripe payments (Cross Platform, Stripe, Google Auth)
+- **[Rescue 1122 Emergency](https://play.google.com/store/apps/details?id=com.hoboetech.rescue.consumer&hl=en)** - Real-time emergency response app with 100K+ downloads (Cross Platform, WebSockets, Maps)
+- **[Res-Ihop](https://apps.apple.com/us/app/res-ihop/id1576501174)** - Property browsing app with map integration (Cross Platform, Google Maps)
+
+### 🌐 **Web Applications**
+- **[Fawkes Games](https://fawkesgames.com/)** - Gaming platform with React, Context API, Stripe integration
+- **[TechAccess Pakistan](https://www.techaccesspak.com/)** - Technology services platform
+- **[Pashma Khan](https://pashmakhan.com/)** - E-commerce platform with modern UI/UX
+---
+
+## 💼 Professional Experience
+
+### Senior Mobile App Developer - **Helpicon** (Remote, Sweden)
+*Apr 2024 – Present*
+- Developed Helpicon App from scratch with **Twilio, Stripe, Swiss Pay** integrations for 10K+ users
+- Reduced deployment time by 50% through **CI/CD pipeline** implementation
+- Built **geofencing, push notifications, and speech-to-text** features
+
+### Senior Mobile App Developer - **GreenOrigin** (Lahore, Pakistan)
+*Jun 2021 – Nov 2024*
+- Led development of **5+ emergency response apps** including DHA & Rescue 1122
+- Built real-time apps with **100K+ downloads**, reducing emergency response time by 30%
+- Integrated **WebSockets, Google Maps, Mapbox** for live tracking and communication
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=muzammil-crypto&count_private=true&show_icons=true&theme=tokyonight"
+           alt="Muzammal's GitHub stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-crypto&layout=compact&theme=tokyonight"
+           alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## **Languages & Technologies**
+
+### **Mobile Development**
+
+* **Flutter** (Dart, GetX, BLoC, GetIt)
+* **React Native** (Redux Toolkit, Context API, Expo)
+* **Cross-Platform**: iOS & Android native modules
+
+### **Web Development**
+
+* **Frontend**: React.js | Next.js | Redux | TypeScript | JavaScript
+* **Backend**: Node.js | Express.js | RESTful APIs | GraphQL
+* **Styling**: Tailwind CSS | Material UI | Styled Components
+
+### **Cloud & DevOps**
+
+* **AWS**: EC2 | Lambda | S3 | RDS | API Gateway
+* **CI/CD**: GitHub Actions | Build Flavors | Automated Deployments
+* **Tools**: Docker | Postman | Git | Bitbucket
+
+### **Database & Real-time**
+
+* **NoSQL**: MongoDB | Firebase Firestore | DynamoDB
+* **Real-time**: WebSockets | Firebase Real-time Database
+* **Caching**: Redis | Local Storage Optimization
+
+### **Integrations & APIs**
+
+* **Payment**: Stripe | SwissPay | In-App Purchases
+* **Communication**: Twilio | Push Notifications
+* **Maps & Location**: Google Maps | Mapbox | Geofencing
+* **Authentication**: Firebase Auth | JWT | OAuth
+
+### **Other Tools & Platforms**
+
+* **Version Control**: Git | GitHub | GitLab | Bitbucket
+* **IDEs**: VS Code | Android Studio | Xcode
+* **Testing**: Jest | Performance Optimization | Debugging Tools
+* **Design**: Figma | Responsive UI Design
+
+---
+
+## 🌐 Connect & Upwork
+- **[Professional Upwork Profile](https://www.upwork.com/freelancers/~0130e80325866dce81?mp_source=share)** - Available for freelance projects
+- **LinkedIn:** https://www.linkedin.com/in/muzammil-rafique
+- **Portfolio:** http://itsmuzamil.vercel.app
+- **Email:** Muzamilrafiq000@gmail.com
+- **Location:** Riyadh, Saudi Arabia
+- **Phone:** +966-509-652856
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-crypto" alt="muzammil-crypto" /></a> </p>
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
   
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muzammil-crypto&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muzammil-crypto&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzammil-crypto\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muzammil-crypto&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
-
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- <h3 align="left">Achievements:</h3>
-
-[![An image of @muzammil-crypto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muzammil-crypto)](https://holopin.io/@muzammil-crypto)
-<br><br><br> -->
-
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br>
-<!-- <p align="right" > Created with 🧡 by <a href="http://muzammil.traditionalme.life">Muzammil Rafique</a></p> -->
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#5](https://github.com/muzammil-crypto/helpicon-mobile-app/pull/5) in [muzammil-crypto/helpicon-mobile-app](https://github.com/muzammil-crypto/helpicon-mobile-app)
+2. 🎉 Merged PR [#4](https://github.com/muzammil-crypto/emergency-response-app/pull/4) in [muzammil-crypto/emergency-response-app](https://github.com/muzammil-crypto/emergency-response-app)
+3. 💪 Opened PR [#3](https://github.com/muzammil-crypto/flutter-ecommerce/pull/3) in [muzammil-crypto/flutter-ecommerce](https://github.com/muzammil-crypto/flutter-ecommerce)
+4. ❌ Closed PR [#2](https://github.com/muzammil-crypto/react-native-chat-app/pull/2) in [muzammil-crypto/react-native-chat-app](https://github.com/muzammil-crypto/react-native-chat-app)
+5. 🎉 Merged PR [#1](https://github.com/muzammil-crypto/aws-mobile-backend/pull/1) in [muzammil-crypto/aws-mobile-backend](https://github.com/muzammil-crypto/aws-mobile-backend)
+<!--END_SECTION:activity-->
+</details>
