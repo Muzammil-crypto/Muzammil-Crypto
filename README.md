@@ -52,7 +52,7 @@ Credits:
 ## 📌 Featured Projects
 
 ### 📱 **Mobile Applications**
-- **[Helpicon](https://helpicon.se/)** | **[iOS App](https://apps.apple.com/se/app/helpicon/id6450137041?l=en-GB)** - Task-matching platform with Twilio, Stripe, Swiss Pay integration (Cross Platform)
+- **[Helpicon](https://helpicon.se/)** **[](https://apps.apple.com/se/app/helpicon/id6450137041?l=en-GB)** - Task-matching platform with Twilio, Stripe, Swiss Pay integration (Cross Platform)
 - **[SuperHero eSIM](https://apps.apple.com/pk/app/superhero-esim-travel-data/id6504882410)** - Travel eSIM app for 200+ countries with Stripe payments (Cross Platform, Stripe, Google Auth)
 - **[Rescue 1122 Emergency](https://play.google.com/store/apps/details?id=com.hoboetech.rescue.consumer&hl=en)** - Real-time emergency response app with 100K+ downloads (Cross Platform, WebSockets, Maps)
 - **[Res-Ihop](https://apps.apple.com/us/app/res-ihop/id1576501174)** - Property browsing app with map integration (Cross Platform, Google Maps)
@@ -61,6 +61,7 @@ Credits:
 - **[Fawkes Games](https://fawkesgames.com/)** - Gaming platform with React, Context API, Stripe integration
 - **[TechAccess Pakistan](https://www.techaccesspak.com/)** - Technology services platform
 - **[Pashma Khan](https://pashmakhan.com/)** - E-commerce platform with modern UI/UX
+
 ---
 
 ## 📊 GitHub Stats & Activity
