@@ -8,7 +8,7 @@ Credits:
 <h3 align="center">Full Stack Mobile & Web App Developer (iOS & Android) | Flutter | React Native | AWS Certified</h3>
 
 <!-- ========================== CERTIFICATIONS (TOP) ========================== -->
-<p align="left">
+<p align="center">
   <a href="https://www.credly.com/badges/678e4ee1-6ae2-4a0d-a08e-464085e918b0/public_url" target="_blank">
     <img alt="AWS Solutions Architect – Associate"
          src="https://img.shields.io/badge/AWS%20Solutions%20Architect%E2%80%94Associate-Verified%20(2025)-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
